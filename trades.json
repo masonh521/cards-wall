@@ -1,13 +1,6 @@
 [
   {
     "cardNumber": "001",
-    "tradeDescription": "Kisses",
-    "photoUrl": "https://cdn.jsdelivr.net/gh/masonh521/cards-wall@main/photos/001-1782374323.png",
-    "city": "Denver, CO",
-    "date": "June 2026"
-  },
-  {
-    "cardNumber": "001",
     "tradeDescription": "Deck of cards",
     "photoUrl": "https://raw.githubusercontent.com/masonh521/cards-wall/main/photos/001-1782427665.jpg",
     "city": "Denver, CO",
