@@ -2,7 +2,7 @@
   {
     "cardNumber": "001",
     "tradeDescription": "An everlasting game",
-    "photoUrl": "https://raw.githubusercontent.com/masonh521/cards-wall/main/photos/001-real.jpg",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/masonh521/cards-wall@main/photos/001-real.jpg",
     "city": "Denver, CO",
     "date": "June 2026"
   }
