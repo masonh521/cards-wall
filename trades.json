@@ -12,5 +12,12 @@
     "photoUrl": "https://raw.githubusercontent.com/masonh521/cards-wall/main/photos/001-1782427665.jpg",
     "city": "Denver, CO",
     "date": "June 2026"
+  },
+  {
+    "cardNumber": "003",
+    "tradeDescription": "Chai",
+    "photoUrl": "https://raw.githubusercontent.com/masonh521/cards-wall/main/photos/003-1782573319.jpg",
+    "city": "Denver, CO",
+    "date": "June 2026"
   }
 ]
